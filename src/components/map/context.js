@@ -11,8 +11,6 @@ import { useLoadScript } from '@react-google-maps/api'
 
 //  
 
-const defaultCenter = { lat: 35.909580, lng: -79.045311 } // UNC-CH
-
 const DEFAULT_ORIGIN = { lat: 35.909580, lng: -79.045311 }
 
 const TRAVEL_MODES = [

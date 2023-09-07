@@ -1,6 +1,6 @@
 import { Fragment } from 'react'
 import PropTypes from 'prop-types'
-import { IconButton, List, ListItem, ListItemButton, ListItemContent, ListItemDecorator, Typography } from '@mui/joy'
+import { List, ListItem, ListItemContent, Typography } from '@mui/joy'
 import { useMap } from '../map'
 
 export const TripSummary = () => {
